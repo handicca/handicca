@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am passionate about coding, and currently, I'm f
 
 - 💻 Technologies I work with:
   - **Frontend**: HTML, CSS, JavaScript, ReactJS
-  - **Backend**: Python, Flask
+  - **Backend**: Python, Flask, NodeJS, Express
   - **Databases**: Mongodb, PostgreSQL
   - **Tools**: Fedora Linux, Git, GitHub, VS Code
 
