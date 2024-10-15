@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I am passionate about coding, and currently, I'm f
 ## 🚀 Projects and Learning Journey
 
 ### 🐍 100 Days of Python
-I am currently participating in the **100 Days of Python** challenge, where I am learning Python through hands-on projects and coding exercises. Follow my progress [here](https://github.com/yourusername/100-days-of-python)!
+I am currently participating in the **100 Days of Python** challenge, where I am learning Python through hands-on projects and coding exercises. Follow my progress [here](https://github.com/handicca/100days-of-python)!
 
 ---
 
