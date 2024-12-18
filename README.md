@@ -14,17 +14,12 @@ Welcome to my GitHub profile! I am passionate about coding, and currently, I'm f
   - **Frontend**: HTML, CSS, JavaScript, ReactJS
   - **Backend**: Python, Flask, NodeJS, Express
   - **Databases**: Mongodb, PostgreSQL
-  - **Tools**: Fedora Linux, Git, GitHub, VS Code
+  - **Tools**: Git, GitHub, VS Code
 
 - 📫 How to reach me:
   - Email: [handikasyam.dev@gmail.com](mailto:handikasyam.dev@gmail.com)
 
-- ⚡ Fun fact: I'm learning **web design** to improve my skills in making visually appealing websites!
-
 ## 🚀 Projects and Learning Journey
-
-### 🐍 100 Days of Python
-I am currently participating in the **100 Days of Python** challenge, where I am learning Python through hands-on projects and coding exercises. Follow my progress [here](https://github.com/handicca/100days-of-python)!
 
 ---
 
