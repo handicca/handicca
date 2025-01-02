@@ -2,10 +2,6 @@
 
 Welcome to my GitHub profile! I am passionate about coding, and currently, I'm focusing on expanding my knowledge in **Python** and **ReactJS**.
 
-- 🔭 I’m currently working on: 
-  - A **100 Days of Python** challenge
-  - Building my personal **portfolio website** using **ReactJS**
-
 - 🌱 I’m currently learning:
   - Python (100 Days of Python Challenge)
   - ReactJS for frontend development
@@ -18,8 +14,6 @@ Welcome to my GitHub profile! I am passionate about coding, and currently, I'm f
 
 - 📫 How to reach me:
   - Email: [handikasyam.dev@gmail.com](mailto:handikasyam.dev@gmail.com)
-
-## 🚀 Projects and Learning Journey
 
 ---
 
