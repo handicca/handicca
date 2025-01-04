@@ -1,4 +1,4 @@
-# Hi there, I'm [Handika] 👋
+# Hi there, I'm Handika 👋
 
 Welcome to my GitHub profile! I am passionate about coding, and currently, I'm focusing on expanding my knowledge in **Python** and **ReactJS**.
 
