@@ -17,6 +17,4 @@ Welcome to my GitHub profile! I am passionate about coding, and currently, I'm f
 
 ---
 
-![Handicca's GitHub stats](https://github-readme-stats.vercel.app/api?username=handicca&show_icons=true&theme=radical)
-
 Thanks for stopping by! Feel free to connect with me or explore my repositories.
