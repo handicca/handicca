@@ -1,20 +1,23 @@
-# Hi there, I'm Handika 👋
+# Hi, I'm Handika 👋
 
-Welcome to my GitHub profile! I am passionate about coding, and currently, I'm focusing on expanding my knowledge in **Python** and **ReactJS**.
+Welcome to my space on GitHub. I enjoy building things with code and continuously improving my craft.
 
-- 🌱 I’m currently learning:
-  - Python (100 Days of Python Challenge)
-  - ReactJS for frontend development
+### 📚 What I'm exploring right now
+- Python (100 Days of Code)
+- React & frontend engineering
+- Modern backend development with Node.js / Express
+- Data Science fundamentals & workflows
+- Databases and data engineering basics
 
-- 💻 Technologies I work with:
-  - **Frontend**: HTML, CSS, JavaScript, ReactJS
-  - **Backend**: Python, Flask, NodeJS, Express
-  - **Databases**: Mongodb, PostgreSQL
-  - **Tools**: Git, GitHub, VS Code
+### 🛠 Tech I use
+- **Frontend:** HTML, CSS, JavaScript, React, Nextjs, ReactRouter  
+- **Backend:** Python, Flask, Node.js, Bun, Hono, Express  
+- **Databases:** MongoDB, PostgreSQL, MySQL  
+- **Tools:** Git, GitHub, VS Code, Zed, Linux
 
-- 📫 How to reach me:
-  - Email: [handikasyam.dev@gmail.com](mailto:handikasyam.dev@gmail.com)
+### 📬 Contact
+- Email: [handikasyam@proton.me](mailto:handikasyam@proton.me)
 
 ---
 
-Thanks for stopping by! Feel free to connect with me or explore my repositories.
+Thanks for visiting. Feel free to check out my projects or reach out anytime.
